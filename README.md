@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 Sobre mim:
-- 🎓 Estudante de **Sistemas de Informação** (5º período, CR 8.2)
+- 🎓 Estudante de **Sistemas de Informação** (6º período, CR 8.4)
 - 💻 Foco em **desenvolvimento web e desktop**
 - 📚 Atualmente estudando **React Native** e **Node.js**
 - 🔍 Facilidade com **lógica de programação e resolução de problemas**
