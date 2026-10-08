@@ -6,7 +6,7 @@
 ### 👨‍💻 Sobre mim:
 - 🎓 Estudante de **Sistemas de Informação** (8º período, CR 8.63)
 - 💻 Foco em **desenvolvimento web e desktop**
-- 📚 Atualmente estudando **React Native** e **Node.js**
+- 📚 Atualmente estudando **Java** e **Spring Boot**
 - 🔍 Facilidade com **lógica de programação e resolução de problemas**
 - 🎯 Em busca de **estágio para aplicar e evoluir meus conhecimentos**
 
